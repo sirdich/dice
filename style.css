@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #003638;
+  text-align: center;
+  justify-content: center;
+  font-family: "Satisfy", cursive;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #53b8bb;
+  text-shadow: 2px 2px 5px black;
+}
+
+h1 img {
+  width: 100px;
+}
+
+.player-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 {
+  margin: 2rem 10rem;
+  color: #f3f2c9;
+  text-shadow: 1px 1px 2.5px black;
+}
+
+img {
+  width: 50%;
+}
